@@ -1,0 +1,9 @@
+-
+  url: https://jkkyljl.hnhfpc.gov.cn/httpapi/services.ashx?
+  data:
+    ACTION: querySource
+    hospitalId:
+    typeId: 102
+    treatDate: 2021-08-13
+    sourceType: 1
+  text: 查询成功

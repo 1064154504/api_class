@@ -1,0 +1,7 @@
+-
+  url: https://jkkyljl.hnhfpc.gov.cn/httpapi/services.ashx?
+  data:
+    ACTION: queryHospitalInfo
+    areaCode: 430100
+    coordinate: 28.192480,113.013611
+  compare: 查询成功

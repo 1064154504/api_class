@@ -1,0 +1,12 @@
+-
+  url: https://jkkyljl.hnhfpc.gov.cn/httpapi/services.ashx?
+  data:
+    action: getToken
+    openid: oxVqWxBvr-_L6RQx_Ei2z6BiHD-s
+  compare: 获取成功。
+-
+  url: https://jkkyljl.hnhfpc.gov.cn/httpapi/services.ashx?
+  data:
+    action: getToken
+    openid: oxVqWxBvr-_L6RQx_Ei2z6BiHD-s
+  compare: 获取成功。

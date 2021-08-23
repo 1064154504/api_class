@@ -1,0 +1,8 @@
+-
+  url: https://jkkyljl.hnhfpc.gov.cn/httpapi/services.ashx?
+  headers:
+    cookie:
+  data:
+    ACTION: csyxzm
+    HealthCode: EE259710C49EB077BB665B9C1BADFD6B2B5080D01A8B3F55370B62478DFECAB0
+  compare: 非法请求
